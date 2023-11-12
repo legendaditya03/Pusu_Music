@@ -1,15 +1,15 @@
-API_ID=12380656
-API_HASH=d927c13beaaf5110f25c505b7c071273
+API_ID=23369241
+API_HASH=8e6d2be1812639704c8ee4a6aaae2504
 BOT_TOKEN=
 STRING_SESSION=
-MUSIC_BOT_NAME=˹sᴧɴᴋɪ ꭙ ᴍᴜsɪᴄ˼
+MUSIC_BOT_NAME=˹𝙿𝚄𝚂𝚄 ✘ 𝙼𝚄𝚂𝙸𝙲˼
 MONGO_DB_URL=
-DURATION_LIMIT=120
+DURATION_LIMIT=180
 LOG_GROUP_ID=
 OWNER_ID=
-SUPPORT_CHANNEL=https://t.me/adityaserver
-SUPPORT_GROUP=https://t.me/adityadiscus
-UPSTREAM_REPO=https://github.com/XdityaHalder/SankiMusic
-UPSTREAM_BRANCH=aditya
+SUPPORT_CHANNEL=https://t.me/pusu_world01
+SUPPORT_GROUP=https://t.me/pusu_world
+UPSTREAM_REPO=https://github.com/legendaditya03/Pusu_Music
+UPSTREAM_BRANCH=Legend-Adi
 AUTO_DOWNLOADS_CLEAR=True
 
