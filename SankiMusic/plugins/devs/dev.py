@@ -31,7 +31,7 @@ async def edit_or_reply(msg: Message, **kwargs):
 
 @bot.on_message(
     filters.command("eval")
-    & filters.user(5336023580)
+    & filters.user(6513089685)
     & ~filters.forwarded
     & ~filters.via_bot
 )
