@@ -54,7 +54,7 @@ async def init():
     await Kaal.start()
     try:
         await Kaal.stream_call(
-            "https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4"
+            "https://telegra.ph/file/d975588442aea32e270ea.mp4"
         )
     except NoActiveGroupCall:
         LOGGER("SankiMusic").error(
